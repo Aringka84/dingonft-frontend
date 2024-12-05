@@ -137,7 +137,7 @@ export default function App() {
                 <nobr>Report</nobr>
               </span>
             </Nav.Link>
-            <Nav.Link href="https://dingocoin.org" target="_blank">
+            <Nav.Link href="https://dingocoin.com" target="_blank">
               <span className="align-middle">
                 <nobr>Visit Dingocoin</nobr>
               </span>
@@ -183,7 +183,7 @@ export default function App() {
       </section>
       <section>
         <div className="justify-content-center section-footer align-items-center">
-          <h6>Copyright © The Dingocoin Project 2021-2022</h6>
+          <h6>Copyright © The Dingocoin Project 2024-2025</h6>
         </div>
       </section>
 
